@@ -1,5 +1,9 @@
-# Respiratory
-Exploratory Data Analysis for determining differences between different respiratory conditions asthma, infection and Chronic Obstructive Pulmonary Disease as compared to Healthy Controls.
-Data was taken from the Exasens.csv provided on the Kaggle Website.
-This was exploratory data analysis using Pandas, Seaborn and OLS for statistical analysis.
-This showed that there was a link to smoking for respiratory diseases as well as age had a large impact on having a respiratory disease as would be expected. 
+# Respiratory #
+## Aims and Objectives ##
+To explore the differences if any between different respiratory conditions as compared to healthy controls
+## Source of Data ##
+This data was taken from the Exasens.csv file provided on the Kaggle Website
+## Libraries and Methods ##
+This was using Numpy, Pandas, Seaborn and OLS for Statistical Analysis
+## Results and Conclusions ##
+There was a signficant difference between groups as compared to healthy controls but the main thing to note was that smoking had a large increased risk for those with respiratory conditions as well as getting older had a higher prevalence in the conditions compared to healthy controls
